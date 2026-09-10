@@ -44,6 +44,16 @@ Los repositorios de estos proyectos son privados por ahora. Con gusto los compar
 
 ---
 
+### 🎓 Certificaciones
+
+**GeneXus 18 Junior Analyst** — GeneXus Training · agosto 2026 · aprobada con 100%
+
+**AWS Academy Graduate: Cloud Foundations** — AWS Academy · octubre 2025 · 20 horas
+
+[Ver credencial](https://www.credly.com/go/SKpOS7y9)
+
+---
+
 ### 📫 Contacto
 
 [LinkedIn](https://linkedin.com/in/erick-villavicencio)
